@@ -6,7 +6,7 @@
 
 Software developer for 10+ years. Enterprise + AI. Exploring the next wave of AI systems — including paths beyond transformer LLMs.
 
-Most of my work stays private. A few projects I open to the world — **[Skillerr](https://skillerr.com)** is one of them: portable **`.skill`** files for AI skills.
+Most of my work stays private. A few projects I open to the world — **[Skillerr](https://dot-skill.github.io/skillerr-com/)** is one of them: portable **`.skill`** files for AI skills.
 
 ### Try Skillerr
 
@@ -19,5 +19,5 @@ Then point your AI at [`dot-skill/skillerr`](https://github.com/dot-skill/skille
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/bharat-dudeja/)
-- [Website](https://skillerr.com)
+- [Website](https://dot-skill.github.io/skillerr-com/)
 - [github.com/dot-skill/skillerr](https://github.com/dot-skill/skillerr)
