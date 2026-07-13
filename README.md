@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dot-skill/skillerr/main/assets/skillerr-mark.png" alt="Skillerr mark" width="64" height="64" />
-</p>
 
 # Bharat Dudeja
 
