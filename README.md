@@ -1,6 +1,6 @@
 # Bharat Dudeja
 
-Enterprise + AI. Exploring the next wave of AI systems — including research into alternatives to transformer-theory-based LLMs.
+Enterprise + AI. Exploring the next wave of AI systems — including paths beyond transformer LLMs.
 
 ## Links
 
